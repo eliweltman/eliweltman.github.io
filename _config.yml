@@ -21,9 +21,9 @@
 title: Eli Weltman
 email: eliweltman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to my website! Here you can find my resume & portfolio. 
+  Thank you for visiting. Please contact me if you have any questions 
+  or would like to work together.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eliweltman.com" # the base hostname & protocol for your site, e.g. http://example.com
 
