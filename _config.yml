@@ -1,10 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : Eli Weltman
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+  Welcome to my website! Here you can find my resume & portfolio. 
+  Thank you for visiting. Please contact me if you have any questions 
+  or would like to work together.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+url: "https://eliweltman.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository          : eliweltman/eliweltman.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
