@@ -1,0 +1,32 @@
+# Get Icons  from : https://fontawesome.com/icons
+# Get Colors from : https://brandcolors.net/
+
+email:
+  url   : "mailto:eliweltman@gmail.com"
+  icon  : fas fa-envelope
+  color : db4437
+
+github:
+  url   : https://www.github.com/
+  icon  : fab fa-github
+  color : 333333
+
+instagram:
+  url   : https://www.instagram.com/
+  icon  : fab fa-instagram
+  color : 405de6
+
+linkedin:
+  url   : https://www.linkedin.com/in/eli-weltman
+  icon  : fab fa-linkedin-in
+  color : 007bb5
+
+soundcloud:
+  url   : https://www.soundcloud.com/
+  icon  : fab fa-soundcloud
+  color : ff8800
+
+spotify:
+  url   : https://open.spotify.com/user/
+  icon  : fab fa-spotify
+  color : 1db954
