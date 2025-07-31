@@ -10,6 +10,6 @@
   percentage: 70
   color: secondary
 
-  - name: SQL
+- name: SQL
   percentage: 70
   color: secondary
