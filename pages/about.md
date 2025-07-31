@@ -9,11 +9,11 @@ weight: 3
 
 Hi, I'm **Eli Weltman** :wave:,<br>
 
-I’m a passionate and analytical new graduate from the Schulich School of Business (BBA) specialized in Marketing and Strategic Management.
+I'm a creative and analytical consultant who is passionate about solving problems through the resourceful use of data, human intelligence, and AI. I come equipped with years of experience in marketing, communications, strategy consulting, and e-commerce advisory. 
 
-I have a keen eye for detail which I use to deliver high quality, data-driven results, with experience in consulting for SaaS, fintech, and social enterprises, as well as e-commerce strategy.
+I’ve put my consulting skills to work in financial services, SaaS, social enterprises, e-commerce management, and marketing strategy. My experiences across multinational corporations, boutique firms, startups, and non-profits uniquely shape my professional profile, blending a bold entrepreneurial spirit with meticulous attention to detail.
 
-I love collaborating with people, brainstorming ideas, and innovating strategies to build strong brands and efficient systems. I aspire to work in marketing consulting to help businesses optimize channel strategies, implement their marketing mix, and execute with excellence.
+I am also an avid musician (singer, piano, guitar, choir), artist, gamer, word puzzler, sports stats geek (baseball, hockey), newly minted husband, and proud uncle of 24.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
