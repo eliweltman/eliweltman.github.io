@@ -6,7 +6,8 @@ weight: 3
 ---
 
 # **About Me**
-Hi, I'm **Eli Weltman** :wave:,<br>
+Hi, I'm **Eli Weltman** :wave:
+
 I'm a creative and analytical consultant passionate about solving problems through the resourceful use of data, human intelligence, and AI. I bring several years of experience in marketing, communications, brand strategy, and e-commerce advisory.
 
 I've applied my consultative approach across brand implementation, financial services, SaaS, social enterprise, e-commerce management, and marketing strategy, working with multinational corporations, boutique firms, startups, and non-profits. That range uniquely shapes my professional profile, blending a bold entrepreneurial spirit with meticulous attention to detail.
