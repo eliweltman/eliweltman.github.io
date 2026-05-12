@@ -6,7 +6,7 @@ weight: 3
 ---
 
 # **About Me**
-Hi, I'm **Eli Weltman** :wave:
+Hi, I'm **Eli** :wave:
 
 I'm a creative and analytical consultant passionate about solving problems through the resourceful use of data, human intelligence, and AI. I bring several years of experience in marketing, communications, brand strategy, and e-commerce advisory.
 
