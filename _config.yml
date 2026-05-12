@@ -26,8 +26,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Eli Weltman
-  image             : https://media.licdn.com/dms/image/v2/D5603AQGHEpebEbs4Og/profile-displayphoto-shrink_800_800/B56ZRwgHAjHwAc-/0/1737054253513?e=1762387200&v=beta&t=B_KWoHsTkAa2CZpaElb3nvwXX6pDVo40bjkxruyhBb0
-# dribbble          : your_username
+  image             : /assets/img/profile.png
   email             : eliweltman@gmail.com
   facebook          : Eli Weltman
 # instagram         : eliweltman
