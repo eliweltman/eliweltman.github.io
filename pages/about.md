@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Resume
+permalink: /resume/
 weight: 3
 ---
 
-# **About Me**
+# **Eli Weltman**
 Hi, I'm **Eli** :wave:
 
 I'm a creative and analytical consultant passionate about solving problems through the resourceful use of data, human intelligence, and AI. I bring several years of experience in marketing, communications, brand strategy, and e-commerce advisory.
