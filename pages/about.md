@@ -56,3 +56,7 @@ I am also an avid musician (singer, piano, guitar, choir), artist, gamer, word p
     <span class="badge badge-info">Competitive Analysis</span>
   </div>
 </div>
+
+<div class="row">
+{% include about/timeline.html %}
+</div>
